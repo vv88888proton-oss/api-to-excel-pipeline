@@ -1,0 +1,4 @@
+[channel=webhook enabled=False 仅预览,未发送]
+OKX SPOT USDT 行情快照 Top30(生成于 2026-11-01 13:42 北京时间)
+共 30 个交易对,上涨 22 / 下跌 8,涨跌幅中位数 1.01%
+涨幅最大:LIT-USDT (+16.47%);跌幅最大:XPL-USDT (-9.35%)

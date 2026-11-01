@@ -1,0 +1,6 @@
+{
+  "enabled": false,
+  "channel": "webhook",
+  "webhook_url": "https://example.invalid/your-webhook-here",
+  "_说明": "占位配置。本作品只生成 output/notify_preview.txt 预览,不会真实发送。"
+}

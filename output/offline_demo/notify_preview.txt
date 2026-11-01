@@ -1,0 +1,4 @@
+[channel=none enabled=False 仅预览,未发送]
+OKX SPOT USDT 行情快照 Top10(生成于 2026-11-01 13:42 北京时间)
+共 10 个交易对,上涨 4 / 下跌 6,涨跌幅中位数 -2.99%
+涨幅最大:FFF-USDT (+4.59%);跌幅最大:DDD-USDT (-9.87%)
